@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Sem02HolaMundo</string>
+    <string name="fondo_1" />
+    <string name="txt_correo" />
+    <string name="txt_1">Correo electronico</string>
+    <string name="check_nocerrar">No cerrar sesion</string>
+    <string name="txt_contraseña">Contraseña</string>
+    <string name="txt_3">¿Has olvidado tu contraseña?</string>
+    <string name="btn_1">Enviar</string>
+    <string name="txt_4">Registrate</string>
+    <string name="txt_5">Es gratis ( y lo seguira siendo)</string>
+    <string name="txt_6">Nombre</string>
+    <string name="txt_7">Apellidos</string>
+    <string name="txt_8">Tu direccion de correo electronico</string>
+    <string name="txt_9">Contraseña nueva</string>
+    <string name="txt_10">Sexo</string>
+    <string name="txt_11">Fecha de nacimiento</string>
+    <string name="txt_12">¿Por qué tengo qu dar esta información?</string>
+    <string name="I_correo" />
+    <string name="I_contraeña" />
+    <string name="R_nombre" />
+    <string name="R_apellidos" />
+    <string name="R_email" />
+    <string name="R_contraseña" />
+    <string name="btn_registrate" />
+    <string name="btn_registrar">Registrate</string>
+    <string name="txt_13">Crear una pagina</string>
+    <string name="txt_15">para un famoso, grupo de musica o empresa.</string>
+    <string name="sexo" />
+    <string name="registrarse">Registrarse</string>
+    <string name="txr_123">Hombre</string>
+
+</resources>
